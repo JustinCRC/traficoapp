@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/menuProfile"
+        android:icon="@drawable/perfil"
+        android:title="@string/perfil" />
+    <item
+        android:id="@+id/menuNotifications"
+        android:icon="@drawable/bell"
+        android:title="@string/notifications"/>
+
+    <item
+        android:id="@+id/menuCollection"
+        android:icon="@drawable/bookmark"
+        android:title="@string/collection" />
+
+    <item
+        android:id="@+id/menuInbox"
+        android:icon="@drawable/inbox"
+        android:title="@string/inbox" />
+
+    <item
+        android:id="@+id/menuOrders"
+        android:icon="@drawable/form"
+        android:title="@string/Formulario" />
+
+    <item android:title="@string/Otros">
+
+        <menu>
+
+            <item
+                android:id="@+id/action_settings"
+                android:title="@string/Configuración"
+                android:icon="@drawable/settings"  />
+
+            <item
+                android:id="@+id/menuSupport"
+                android:icon="@drawable/support"
+                android:title="@string/Soporte" />
+
+            <item
+                android:id="@+id/menuAboutUs"
+                android:icon="@drawable/about"
+                android:title="@string/Instrucciones" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

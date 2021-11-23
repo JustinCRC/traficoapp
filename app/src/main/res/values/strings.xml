@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">trafico</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tomar_imagen_de_placa">Tomar imagen de placa</string>
+    <string name="title_activity_home1">HomeActivity1</string>
+    <string name="title_activity_home_activityxd">HomeActivityxd</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="perfil">Perfil</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="collection">Colección</string>
+    <string name="inbox">Inbox</string>
+    <string name="Formulario">Formulario</string>
+    <string name="Otros">Otros</string>
+    <string name="Configuración">Configuración</string>
+    <string name="Soporte">Soporte</string>
+    <string name="Instrucciones">Instrucciones</string>
+</resources>

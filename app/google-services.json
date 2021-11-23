@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546621039347",
+    "project_id": "trafic-bd156",
+    "storage_bucket": "trafic-bd156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546621039347:android:a7589a1cfa893cafe48d86",
+        "android_client_info": {
+          "package_name": "com.adisr.trafico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546621039347-16ok024m7nj28osdjvonu2p3227as8ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPiKOZ3Uh8NJoRKzGvilwrKpxAl_Mmyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546621039347-16ok024m7nj28osdjvonu2p3227as8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
